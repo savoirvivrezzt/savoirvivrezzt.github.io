@@ -1,12 +1,13 @@
 ---
-title: Services
+title: Działania
 layout: services
-description: Services
-intro_image: "images/illustrations/reading.svg"
+description: services
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Co Robimy?
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Aby osiągnąć nasz cel i zwiększyć społeczną świadomość na temat Savoir Vivre, jesteśmy aktywni na naszej stronie Facebook oraz prowadzimy warsztaty i lekcje na temat naszej kampanii.
+
+
